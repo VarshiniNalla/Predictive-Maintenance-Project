@@ -40,19 +40,19 @@ The machine learning model successfully predicts machine failures with good accu
 
 ## Project Screenshots
 ### Random Forest Confusion Matrix
-![Random Forest Confusion Matrix](screenshots/random forest confusion matrix.png)
+![Random Forest Confusion Matrix](screenshots/random%20forest%20confusion%20matrix.png)
 
 ### Logistic Regression Confusion Matrix
-![Logistic Regression Confusion Matrix](screenshots/logistic regression confusion matrix.png)
+![Logistic Regression Confusion Matrix](screenshots/logistic%20regression%20confusion%20matrix.png)
 
 ### Decision Tree Confusion Matrix
-![Decision Tree Confusion Matrix](screenshots/decision tree confusion matrix.png)
+![Decision Tree Confusion Matrix](screenshots/decision%20tree%20confusion%20matrix.png)
 
 ### Random forest Feature Importance Graph
-![Feature Importance](screenshots/random forest feature importance.png)
+![Feature Importance](screenshots/random%20forest%20feature%20importance.png)
 
 ### Decision tree Feature Importance Graph
-![Feature Importance](screenshots/decision tree feature importance.png)
+![Feature Importance](screenshots/decision%20tree%20feature%20importance.png)
 
 ## Files Included
 - Predictive_Maintenance.ipynb
